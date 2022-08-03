@@ -1,4 +1,4 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=minjeongit0925&fontAlign=20&fontAlignY=40&color=gradient">
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=minjeongit0925&fontAlign=50&fontAlignY=40&color=gradient">
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
 ## 🌸 Who Am I 
