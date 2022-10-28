@@ -32,8 +32,6 @@
 
 [2022.03~2022.11] [졸업작품] 시각장애인을 버스의 정확한 정차 위치에 데려다 주는 자율주행 로봇 _버스 예약 앱 제작 담당
 
----
-
 ## 🌸 Project
 ### 2019
 [2019.08] 프레시맨 특화 해외연수 _장소: 중국 심천
@@ -55,8 +53,6 @@
 ### 2022
 [2022.02] 코드캠프 _프리캠프 13기 참여
 
----
-
 <br>
 
 ## 🌸 Information
@@ -71,10 +67,10 @@
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 <br><br>
 
