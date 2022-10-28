@@ -3,25 +3,65 @@
 
 ## 🌸 Who Am I 
 <p align="left">
-- I am an ordinary college student who dreams of the future <br>
-- My major is Artificial intelligence<br>
-- I like to examine knowledg 🔬
+- I am a student who wants to be programmer <br>
+- My major is embedded system<br>
+- I like to experience a lot.
  </p><br>
 
 
- ## 🌸 Education & Project
-- Dong-A University IT Job Club - Machine learning Study(2022.04.11~)
-- Dong-A University IT Job Club - Algorithm Study(2022.07.26~)
-- Dong-A University IT Job Club - Front End Study(2022.07.19~)
-- Professor of Dong-A University - Development of design tools
-- Hanium - AI Environment Robot 
+## 🌸 Education 
+### 2019
 
+[2019 Creative Product 경진대회] 심장 제세동기 유통기한 알림 서비스 구현
+
+### 2021
+
+[HTML,CSS,JS] 구매한 실 목록 저장 웹 페이지 제작
+
+[C] AVR 기반 금고 제작
+
+[linux] P2P 파일 공유 시스템 제작
+
+[Python] 2021 KPU 소프트웨어 경진대회 참가
+
+### 2022
+
+[프로보노] 시각장애인을 버스의 정확한 정차 위치에 데려다 주는 자율주행 로봇
+
+[2022.06] 임베디드응용SW _분리수거 퀴즈 앱 제작
+
+[2022.03~2022.11] [졸업작품] 시각장애인을 버스의 정확한 정차 위치에 데려다 주는 자율주행 로봇 _버스 예약 앱 제작 담당
+
+---
+
+## 🌸 Project
+### 2019
+[2019.08] 프레시맨 특화 해외연수 _장소: 중국 심천
+
+### 2020
+[2020.01] 스마트앱 Android 프로그램 단기교육 참여
+
+[2020.01] 오픈소스 소프트웨어와 Git/Github 교육 참여
+
+[2020.08] 2020 KPU 드론 캠프 참여
+
+[2020.10~2020.11] WISET-SC제일은행「Women in Fintech 아카데미」참여
+
+### 2021
+[2021.07] Python을 활용한 게임 만들기
+
+[2021.08] 스파르타코딩클럽 대학생불꽃반 1기 참여
+
+### 2022
+[2022.02] 코드캠프 _프리캠프 13기 참여
+
+---
 
 <br>
 
 ## 🌸 Information
-- github : https://github.com/EunByu1  <Br>
-- blog   : https://velog.io/@yahweh   
+- github : https://github.com/minjeongit0925 <Br>
+- blog   : https://10000jeong.tistory.com/ 
  
 <Br>
  
