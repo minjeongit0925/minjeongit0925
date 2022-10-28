@@ -3,10 +3,11 @@
 
 ## 🌸 Who Am I 
 <p align="left">
-- I am a student who wants to be programmer <br>
-- My major is embedded system<br>
-- I like to experience a lot.
- </p><br>
+- I am a student who wants to be a programmer.  <br>
+- My major is embedded system.<br>
+- I like to experience a lot. <br>
+ </p>
+ <br>
 
 
 ## 🌸 Education 
