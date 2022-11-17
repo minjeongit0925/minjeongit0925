@@ -32,7 +32,7 @@
 [2022.06] 임베디드응용SW_분리수거 퀴즈 앱 제작
 
 [2022.03~2022.11] [졸업작품] 시각장애인을 버스의 정확한 정차 위치에 데려다 주는 자율주행 로봇
--> 버스 예약 앱 제작, 서버 설정, 디자인 담당
+→ 버스 예약 앱 제작, 서버 설정, 디자인 담당
 <br>
 
 ## 🌸 Education
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 
 <br><br>
 
