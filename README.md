@@ -66,6 +66,8 @@
  
 <Br>
  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjeongit0925@gmail.com)](https://solved.ac/minjeongit0925@gmail.com/)
+ 
  
 ## 🌸 Skill  
 <b>Tech</b>  
