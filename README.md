@@ -1,7 +1,7 @@
 <img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=minjeongit0925&fontAlign=50&fontAlignY=40&color=gradient">
 <!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
-## 🌸 Who Am I 
+## 🍋 Who Am I 
 <p align="left">
 - I am a student who wants to be a frontend programmer.  <br>
 - My major is embedded system.<br>
@@ -10,7 +10,7 @@
  <br>
 
 
-## 🌸 Project 
+## 🍋 Project 
 ### 2019
 
 [2019 Creative Product 경진대회] 심장 제세동기 유통기한 알림 서비스 구현
@@ -35,7 +35,7 @@
 → 버스 예약 앱 제작, 서버 설정, 디자인 담당
 <br>
 
-## 🌸 Education
+## 🍋 Education
 ### 2019
 [2019.08] 프레시맨 특화 해외연수_장소: 중국 심천
 
@@ -60,7 +60,7 @@
 
 <br>
 
-## 🌸 Information
+## 🍋 Information
 - github : https://github.com/minjeongit0925 <Br>
 - blog   : https://10000jeong.tistory.com/ 
  
@@ -75,7 +75,7 @@
 ![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongit0925&show_icons=true&theme=radical)
  
  
-## 🌸 Skill  
+## 🍋 Skill  
 <b>Tech</b>  
 &nbsp;&nbsp; : Skills that have been dealt with more than once (learning stage)<br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
