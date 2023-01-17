@@ -70,8 +70,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minjeongit0925)](https://solved.ac/minjeongit0925/)
 
 🖥 Git
- 
-![minjeongit0925's github stats](https://github-readme-stats.vercel.app/api?username=minjeongit0925&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjeongit0925&langs_count=10&layout=compact)]()
  
  
 ## 🍋 Skill  
