@@ -71,7 +71,7 @@
 
 🖥 Git
  
-![min's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjeongit0925&show_icons=true&theme=radical)
+![minjeongit0925's github stats](https://github-readme-stats.vercel.app/api?username=minjeongit0925&show_icons=true)
  
  
 ## 🍋 Skill  
